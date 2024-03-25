@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278636005392",
+    "project_id": "substrack-8feb2",
+    "storage_bucket": "substrack-8feb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278636005392:android:34e9c894bb6cf8a3a6a295",
+        "android_client_info": {
+          "package_name": "com.example.substrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaVDYfNK2uCccO2cMybPZ3RVb5Xy2MBGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
